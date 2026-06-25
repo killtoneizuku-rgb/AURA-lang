@@ -1,4 +1,4 @@
-# 🧠 SuperBrain JARVIS - Your Personal AI Operating System
+# 🧠 SuperBrain ar0x - Your Personal AI Operating System
 
 <div align="center">
 
@@ -737,7 +737,7 @@ MIT License - Feel free to use, modify, and distribute!
 
 <div align="center">
 
-**Built with ❤️ by the SuperBrain Team**
+**Built with ❤️ by the ar0x**
 
 *Your AI, Your Data, Your Control*
 
