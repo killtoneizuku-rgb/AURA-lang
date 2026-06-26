@@ -75,6 +75,8 @@ UI_PORT = 7860
 UI_WIDTH = "100%"
 UI_TITLE = "🧠 SuperBrain JARVIS"
 UI_DESCRIPTION = "Your Personal AI Operating System"
+UI_SHARE = False
+UI_SERVER_NAME = "0.0.0.0"
 
 # ─── WEB SEARCH SETTINGS ───
 SEARCH_ENGINE = "duckduckgo"  # no API key needed
