@@ -4,7 +4,7 @@ Planner Agent — Breaks down complex tasks into executable steps.
 
 import logging
 import json
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 from .base_agent import BaseAgent
 
